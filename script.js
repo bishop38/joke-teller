@@ -1,0 +1,1 @@
+const VoiceRSS={speech(e){this._validate(e),this._request(e)},_validate:function(e){if(!e)throw"The settings are undefined"}};
